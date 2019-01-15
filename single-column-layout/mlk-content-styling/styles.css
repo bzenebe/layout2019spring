@@ -6,12 +6,6 @@ body {
 
 	font-size: 14pt; 
 
-	padding-top: none;
-
-	padding-left: 200px;
-
-	padding-right:200px;
-
 	line-height: 23px;
 }
 
@@ -31,6 +25,8 @@ h2{
 
 	margin-top: 500px;
 
+	line-height: 60px;
+
 	
 }
 
@@ -40,13 +36,15 @@ h3 {
 
 	text-align: center;
 
-	font-size: 40pt;
+	font-size: 20pt;
 
 	padding: 100px;
 
 	text-transform: uppercase;
 
 	display: inline;
+
+	line-height: 60px;
 
 	
 }
@@ -71,7 +69,7 @@ ul li {
 
 	text-align: center;
 
-	margin:0 0 10px 0; 
+	
 }
 
 ul li a{
@@ -81,7 +79,7 @@ ul li a{
 
 li {
 
-	margin:0 0 10px 0; 
+	
 }
 
 #toc {
@@ -111,6 +109,8 @@ img {
 	text-align-last: center;
 
 	text-transform: uppercase;
+
+	line-height: 80px;
 }
 
 
@@ -123,7 +123,7 @@ blockquote {
 
 #firstHeading {
 
-	margin-top: 10rem;
+	
 }
 
 
